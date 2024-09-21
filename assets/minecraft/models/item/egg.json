@@ -1,0 +1,20 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/egg"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "lib_w:skills/rabbit_bullet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "lib_w:skills/ahab_bullet"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+	"parent":"item/handheld_rod",
+	"textures":{"layer0":"item/warped_fungus_on_a_stick"},
+	"overrides":
+	[
+		{"predicate":{"custom_model_data":100001},"model":"lib_w:lobby_items/ready"},
+		{"predicate":{"custom_model_data":100002},"model":"lib_w:lobby_items/start"},
+		{"predicate":{"custom_model_data":100003},"model":"lib_w:lobby_items/cancel"},
+		{"predicate":{"custom_model_data":1000001},"model":"lib_w:skills/wooden_sword"},
+		{"predicate":{"custom_model_data":1000002},"model":"lib_w:skills/lucy_ch"},
+		{"predicate":{"custom_model_data":1000003},"model":"lib_w:skills/lucy_sp"},
+		{"predicate":{"custom_model_data":1000004},"model":"lib_w:skills/lucy_dp"},
+		{"predicate":{"custom_model_data":1000005},"model":"lib_w:skills/lucy_ep"},
+		{"predicate":{"custom_model_data":1000101},"model":"lib_w:skills/rabbit_mp"},
+		{"predicate":{"custom_model_data":1000102},"model":"lib_w:skills/rabbit_ch"},
+		{"predicate":{"custom_model_data":1000103},"model":"lib_w:skills/rabbit_sp"},
+		{"predicate":{"custom_model_data":1000104},"model":"lib_w:skills/rabbit_dp"},
+		{"predicate":{"custom_model_data":1000105},"model":"lib_w:skills/rabbit_mp2"}
+	],
+	"display": {
+		"ground": {
+			"scale": [0, 0, 0]
+		}
+	}
+}

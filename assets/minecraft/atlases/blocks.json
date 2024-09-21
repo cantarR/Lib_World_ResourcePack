@@ -1,0 +1,24 @@
+{
+    "sources": [
+        {
+            "type": "directory",
+            "source": "skills",
+            "prefix": "skills/"
+        },
+        {
+            "type": "directory",
+            "source": "lobby_items",
+            "prefix": "lobby_items/"
+        },
+        {
+            "type": "directory",
+            "source": "hud",
+            "prefix": "hud/"
+        },
+        {
+            "type": "directory",
+            "source": "skin",
+            "prefix": "skin/"
+        }
+    ]
+}

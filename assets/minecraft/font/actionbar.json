@@ -1,0 +1,156 @@
+{
+    "providers": [
+        {
+			"type": "bitmap",
+			"file": "lib_w:hud/stats.png",
+			"ascent": 18,
+			"height": 30,
+			"chars": [
+				"\uE001\uE002\uE003\uE004\uE005\uE006\uE007\uE008\uE009\uE010",
+				"\uE101\uE102\uE103\uE104\uE105\uE106\uE107\uE108\uE109\uE110",
+				"\uE201\uE202\uE203\uE204\uE205\uE206\uE207\uE208\uE209\uE210",
+				"\uE301\uE302\uE303\uE304\uE305\uE306\uE307\uE308\uE309\uE310",
+                "\uE401\uE402\uE403\uE404\uE405\uE406\uE407\uE408\uE409\uE410",
+                "\uE501\uE502\uE503\uE504\uE505\uE506\uE507\uE508\uE509\uE510",
+                "\uE601\uE602\uE603\uE604\uE605\uE606\uE607\uE608\uE609\uE610",
+                "\uE701\uE702\uE703\uE704\uE705\uE706\uE707\uE708\uE709\uE710"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "lib_w:hud/emotion_coins.png",
+			"ascent": -24,
+			"height": 12,
+			"chars": [
+				"\uD001\uD002\uD003",
+				"\uD101\uD102\uD103"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "lib_w:hud/emotionbar.png",
+			"ascent": -20,
+			"height": 16,
+			"chars": [
+				"\uEF00"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "lib_w:hud/bar.png",
+			"ascent": -24,
+			"height": 12,
+			"chars": [
+				"\uEF01"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "lib_w:hud/ready.png",
+			"ascent": -24,
+			"height": 12,
+			"chars": [
+				"\uEF02"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "lib_w:hud/space_01.png",
+			"ascent": -32768,
+			"height": -54,
+			"chars": [
+				"\uEF03"
+			]
+		},
+        {
+			"type": "bitmap",
+			"file": "lib_w:hud/space_01.png",
+			"ascent": -32768,
+			"height": -16,
+			"chars": [
+				"\uED81"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "lib_w:hud/space_01.png",
+			"ascent": -32768,
+			"height": -204,
+			"chars": [
+				"\uED82"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "lib_w:hud/space_01.png",
+			"ascent": -32768,
+			"height": -17,
+			"chars": [
+				"\uED83"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "lib_w:hud/space_01.png",
+			"ascent": -32768,
+			"height": 2,
+			"chars": [
+				"\uED84"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "lib_w:hud/space_01.png",
+			"ascent": -32768,
+			"height": -72,
+			"chars": [
+				"\uED85"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "lib_w:hud/space_01.png",
+			"ascent": -32768,
+			"height": 1,
+			"chars": [
+				"\uED86"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "lib_w:hud/space_01.png",
+			"ascent": -32768,
+			"height": -23,
+			"chars": [
+				"\uED87"
+			]
+		},
+        {
+			"type": "bitmap",
+			"file": "lib_w:hud/space_01.png",
+			"ascent": -32768,
+			"height": -1,
+			"chars": [
+				"\u002C"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "lib_w:hud/space_01.png",
+			"ascent": -32768,
+			"height": -2,
+			"chars": [
+				"\u002D"
+			]
+		},
+        {
+			"type": "bitmap",
+			"file": "lib_w:hud/space_01.png",
+			"ascent": -32768,
+			"height": -1,
+			"chars": [
+				"\u0020"
+			]
+		}
+    ]
+}

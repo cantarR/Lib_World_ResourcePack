@@ -1,0 +1,40 @@
+{
+    "providers": [
+        {
+			"type": "bitmap",
+			"file": "lib_w:hud/hit.png",
+			"ascent": -2,
+			"height": 2,
+			"chars": [
+				"\uE001"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "lib_w:hud/hit.png",
+			"ascent": -1,
+			"height": 4,
+			"chars": [
+				"\uE002"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "lib_w:hud/hit.png",
+			"ascent": 0,
+			"height": 6,
+			"chars": [
+				"\uE003"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "lib_w:hud/space_01.png",
+			"ascent": 0,
+			"height": 0,
+			"chars": [
+				"\uF001"
+			]
+		}
+    ]
+}

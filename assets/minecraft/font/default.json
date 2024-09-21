@@ -1,0 +1,20 @@
+{
+    "providers": [
+        {
+			"type": "bitmap",
+			"file": "lib_w:hud/effects.png",
+			"ascent": 8,
+			"height": 10,
+			"chars": [
+				"\uF001\uF002\uF003\uF004\uF005\uF006\uF007\uF008",
+				"\uF011\uF012\uF013\uF014\uF015\uF016\uF017\uF018",
+				"\uF021\uF022\uF023\uF024\uF025\uF026\uF027\uF028",
+				"\uF031\uF032\uF033\uF034\uF035\uF036\uF037\uF038",
+				"\uF041\uF042\uF043\uF044\uF045\uF046\uF047\uF048",
+				"\uF051\uF052\uF053\uF054\uF055\uF056\uF057\uF058",
+                "\uF061\uF062\uF063\uF064\uF065\uF066\uF067\uF068",
+                "\uF071\uF072\uF073\uF074\uF075\uF076\uF077\uF078"
+			]
+		}
+    ]
+}

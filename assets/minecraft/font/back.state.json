@@ -1,0 +1,52 @@
+{
+	"providers": [
+        {
+            "type": "space",
+            "advances": {
+                " ": 4,
+                "\u200c": 0
+            }
+        },
+		{"type": "bitmap","file": "lib_w:hud/space_01.png","ascent": -32768,"height": -10,"chars": ["0"]},
+		{"type": "bitmap","file": "lib_w:hud/space_01.png","ascent": -32768,"height": -10,"chars": ["1"]},
+		{"type": "bitmap","file": "lib_w:hud/space_01.png","ascent": -32768,"height": -10,"chars": ["2"]},
+		{"type": "bitmap","file": "lib_w:hud/space_01.png","ascent": -32768,"height": -10,"chars": ["3"]},
+		{"type": "bitmap","file": "lib_w:hud/space_01.png","ascent": -32768,"height": -10,"chars": ["4"]},
+		{"type": "bitmap","file": "lib_w:hud/space_01.png","ascent": -32768,"height": -10,"chars": ["5"]},
+		{"type": "bitmap","file": "lib_w:hud/space_01.png","ascent": -32768,"height": -10,"chars": ["6"]},
+		{"type": "bitmap","file": "lib_w:hud/space_01.png","ascent": -32768,"height": -10,"chars": ["7"]},
+		{"type": "bitmap","file": "lib_w:hud/space_01.png","ascent": -32768,"height": -10,"chars": ["8"]},
+		{"type": "bitmap","file": "lib_w:hud/space_01.png","ascent": -32768,"height": -10,"chars": ["9"]},
+		{"type": "bitmap","file": "lib_w:hud/space_01.png","ascent": -32768,"height": -10,"chars": ["%"]},
+		{"type": "bitmap","file": "lib_w:hud/space_01.png","ascent": -32768,"height": -10,"chars": ["/"]},
+		{"type": "bitmap","file": "lib_w:hud/space_01.png","ascent": -32768,"height": -10,"chars": ["-"]},
+		{"type": "bitmap","file": "lib_w:hud/space_01.png","ascent": -32768,"height": -4,"chars": ["."]},
+		{"type": "bitmap","file": "lib_w:hud/space_01.png","ascent": -32768,"height": -10,"chars": ["A"]},
+		{"type": "bitmap","file": "lib_w:hud/space_01.png","ascent": -32768,"height": -10,"chars": ["B"]},
+		{"type": "bitmap","file": "lib_w:hud/space_01.png","ascent": -32768,"height": -10,"chars": ["C"]},
+		{"type": "bitmap","file": "lib_w:hud/space_01.png","ascent": -32768,"height": -10,"chars": ["D"]},
+		{"type": "bitmap","file": "lib_w:hud/space_01.png","ascent": -32768,"height": -10,"chars": ["E"]},
+		{"type": "bitmap","file": "lib_w:hud/space_01.png","ascent": -32768,"height": -10,"chars": ["F"]},
+		{"type": "bitmap","file": "lib_w:hud/space_01.png","ascent": -32768,"height": -10,"chars": ["G"]},
+		{"type": "bitmap","file": "lib_w:hud/space_01.png","ascent": -32768,"height": -10,"chars": ["H"]},
+		{"type": "bitmap","file": "lib_w:hud/space_01.png","ascent": -32768,"height": -10,"chars": ["I"]},
+		{"type": "bitmap","file": "lib_w:hud/space_01.png","ascent": -32768,"height": -10,"chars": ["J"]},
+		{"type": "bitmap","file": "lib_w:hud/space_01.png","ascent": -32768,"height": -10,"chars": ["K"]},
+		{"type": "bitmap","file": "lib_w:hud/space_01.png","ascent": -32768,"height": -10,"chars": ["L"]},
+		{"type": "bitmap","file": "lib_w:hud/space_01.png","ascent": -32768,"height": -10,"chars": ["M"]},
+		{"type": "bitmap","file": "lib_w:hud/space_01.png","ascent": -32768,"height": -10,"chars": ["N"]},
+		{"type": "bitmap","file": "lib_w:hud/space_01.png","ascent": -32768,"height": -10,"chars": ["O"]},
+		{"type": "bitmap","file": "lib_w:hud/space_01.png","ascent": -32768,"height": -10,"chars": ["P"]},
+		{"type": "bitmap","file": "lib_w:hud/space_01.png","ascent": -32768,"height": -10,"chars": ["Q"]},
+		{"type": "bitmap","file": "lib_w:hud/space_01.png","ascent": -32768,"height": -10,"chars": ["R"]},
+		{"type": "bitmap","file": "lib_w:hud/space_01.png","ascent": -32768,"height": -10,"chars": ["S"]},
+		{"type": "bitmap","file": "lib_w:hud/space_01.png","ascent": -32768,"height": -10,"chars": ["T"]},
+		{"type": "bitmap","file": "lib_w:hud/space_01.png","ascent": -32768,"height": -10,"chars": ["U"]},
+		{"type": "bitmap","file": "lib_w:hud/space_01.png","ascent": -32768,"height": -10,"chars": ["V"]},
+		{"type": "bitmap","file": "lib_w:hud/space_01.png","ascent": -32768,"height": -10,"chars": ["W"]},
+		{"type": "bitmap","file": "lib_w:hud/space_01.png","ascent": -32768,"height": -10,"chars": ["X"]},
+		{"type": "bitmap","file": "lib_w:hud/space_01.png","ascent": -32768,"height": -10,"chars": ["Y"]},
+		{"type": "bitmap","file": "lib_w:hud/space_01.png","ascent": -32768,"height": -10,"chars": ["Z"]},
+		{"type": "bitmap","file": "lib_w:hud/space_01.png","ascent": -32768,"height": -10,"chars": ["s"]}
+	]
+}

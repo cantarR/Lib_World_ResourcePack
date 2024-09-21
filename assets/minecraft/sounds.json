@@ -1,0 +1,69 @@
+{
+    "player.death": {
+        "sounds": [
+            {
+                "name": "player/death",
+                "volume": 0.75
+            }
+        ]
+    },
+    "player.break": {
+        "sounds": [
+            {
+                "name": "player/break",
+                "volume": 0.75
+            }
+        ]
+    },
+    "chr.rabbit.shot": {
+        "sounds": [
+            {
+                "name": "player/rabbit_shot",
+                "volume": 0.75
+            }
+        ]
+    },
+    "chr.rabbit.shot2": {
+        "sounds": [
+            {
+                "name": "player/rabbit_shot2",
+                "volume": 0.75
+            }
+        ]
+    },
+    "chr.rabbit.melee": {
+        "sounds": [
+            {
+                "name": "player/rabbit_melee",
+                "volume": 0.75
+            }
+        ]
+    },
+    "map.backstreet.music_01": {
+        "sounds": [
+            {
+                "name": "music/backstreet_01",
+                "volume": 0.75,
+                "stream": true
+            }
+        ]
+    },
+    "map.backstreet.music_02": {
+        "sounds": [
+            {
+                "name": "music/backstreet_02",
+                "volume": 0.75,
+                "stream": true
+            }
+        ]
+    },
+    "map.backstreet.music_03": {
+        "sounds": [
+            {
+                "name": "music/backstreet_03",
+                "volume": 0.75,
+                "stream": true
+            }
+        ]
+    }
+}

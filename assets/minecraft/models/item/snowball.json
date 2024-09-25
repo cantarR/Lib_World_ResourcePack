@@ -15,6 +15,12 @@
                 "custom_model_data": 2
             },
             "model": "lib_w:item/head/rabbit"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "lib_w:item/head/dell"
         }
     ]
 }
